@@ -1,0 +1,31 @@
+body{
+    background: linear-gradient(to top left,gray,black);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.box1{
+    margin: auto;
+    margin-top: 40vh;
+    background-color: red;
+    border-radius: 100px;
+    width: 100px;
+    height: 100px;
+}
+
+.box2{
+    margin: auto;
+    margin-top: 45vh;
+    background-color:yellow;
+    border-radius: 100px;
+    width: 100px;
+    height: 100px;
+}
+
+.box3{
+    margin: auto;
+    margin-top: 48vh;
+    background-color: green;
+    border-radius: 100px;
+    width: 100px;
+    height: 100px;
+}
